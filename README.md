@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=znationtech" alt="znationtech" /></a> </p>
 
-- 💬 Ask me about **Ract, Flutter,Kotlin, C#, Java etc...**
+- 💬 Ask us about **Ract, Flutter,Kotlin, C#, Java etc...**
 
-- 📫 How to reach me **znationtech@gmail.com**
+- 📫 How to reach us **znationtech@gmail.com**
 
 - ⚡ Fun fact **Might be funny for you**
 
